@@ -1,0 +1,15 @@
+# Jangan upload folder hasil install
+node_modules/
+
+# JANGAN UPLOAD FILE KUNCI RAHASIA
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# File sampah sistem
+.DS_Store
+dist/
+build/
+.vercel
